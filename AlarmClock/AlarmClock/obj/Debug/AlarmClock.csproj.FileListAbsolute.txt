@@ -1,0 +1,16 @@
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csprojResolveAssemblyReference.cache
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Form1.resources
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Properties.Resources.resources
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.GenerateResource.Cache
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Form2.resources
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\bin\Debug\Interop.WMPLib.dll
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\bin\Debug\AxInterop.WMPLib.dll
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\Interop.WMPLib.dll
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AxInterop.WMPLib.dll
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.ResolveComReference.cache
+E:\C#\C #\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Form3.resources
